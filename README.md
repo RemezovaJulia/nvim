@@ -1,2 +1,2 @@
 # NvChad min config
-after lazy use :MasonInstalAll
+after lazy use :MasonInstallAll
